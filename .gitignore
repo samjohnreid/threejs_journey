@@ -1,5 +1,5 @@
-# System Files
+ # System Files
 .DS_Store
 
 # NPM
-node_modules/
+node_modules
